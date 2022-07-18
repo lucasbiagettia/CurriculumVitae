@@ -13,19 +13,19 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 ## **COMPETENCIAS**
 
-**Capacidades:** Trabajo en equipo y buena comunicación; Flexibilidad; Responsabilidad.
+**Capacidades:** Trabajo en equipo y buena comunicación | Flexibilidad | Responsabilidad.
 
-**Lenguajes** : Java; C; C++; Python; Rust.
+**Lenguajes** : Java | C | C++ | Python | Rust.
 
-**Bases de datos:** SQL; Postgress ; SQLlite.
+**Bases de datos:** SQL | Postgress | SQLlite.
 
-**Versionadores:** Git; GitHub; Bitbucket.
+**Versionadores:** Git | GitHub | Bitbucket.
 
-**Parafigmas:** Imperativo; Funcional;DOO; Design Patterns.
+**Paradigmas:** Imperativo | Funcional | DOO | Design Patterns.
 
-**OS:** Windows; UnixBased.
+**OS:** Windows | UnixBased.
 
-**Idiomas:** Español nativo – Italiano (C2) – Inglés (B1).
+**Idiomas:** Español nativo | Italiano (C2) | Inglés (B1).
 
 ---
 ## **EXPERIENCIA PROFESIONAL**
@@ -50,11 +50,11 @@ _Desarrollo de una capa-base para la rápida implementación de habilidades de I
 
 ## Museos
 
-**Museo de Cs. Nauturales** - Guía didáctico 2018
+**de Cs. Nauturales** y **de la Memoria** - Guía didáctico | asesor pedagógico. 2018
 
-## Entrenador de olimpíadas Matemáticas 2013 - 2016
+## Entrenador de olimpíadas Matemáticas
 
-**IPS – UNR e Instituto San Pablo (**Villa Constitución**)**
+**IPS – UNR e Instituto San Pablo** (Villa Constitución). 2013 - 2016
 
 Talleres de resolución de problemas.
 
