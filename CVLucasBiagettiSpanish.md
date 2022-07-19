@@ -19,11 +19,11 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **Bases de datos:** Postgres | SQLlite | MySQL 
 
-**Versionadores:** Git | GitHub | Bitbucket.
+**Versionadores:** Git | GitHub | Bitbucket
 
 **Paradigmas:** OO | Imperativo | Funcional  
 
-**Design Patterns:** (que más me gustan) Strategy | Observer | Facade | Command | Singleton | Factory 
+**Design Patterns:** *(que más me gustan)* Strategy | Observer | Facade | Command | Singleton | Factory 
 
 **OS:** Windows | Linux
 
