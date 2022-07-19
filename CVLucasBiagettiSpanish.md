@@ -23,7 +23,7 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **Paradigmas:** OO | Imperativo | Funcional  
 
-**Design Patterns:** *(que más me gustan)* Strategy | Observer | Facade | Command | Singleton | Factory 
+**Design Patterns:** _(que más me gustan) Strategy | Observer | Facade | Command | Singleton | Factory 
 
 **OS:** Windows | Linux
 
@@ -36,7 +36,7 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **NeuralSoft – IA Developer.** Enero 2022- Actualidad
 
-_Desarrollo de una capa-base para la rápida implementación de habilidades de IA sobre un ERP._
+_Desarrollo de una capa-base para la rápida implementación de habilidades de IA sobre los datos de un ERP_
 
 (JAVA 11 y 16 | Git | Bamboo | Eclipse )
 
