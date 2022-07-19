@@ -6,7 +6,7 @@ _Rosario (arg) – (+549) 3417 192969 –_ [lucasbiagetti@gmail.com](mailto:luca
 
 _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub:_ [/lucasbiagettia](https://github.com/lucasbiagettia)
 
-**Intereses:** desarrollo Back-End | lenguajes de bajo nivel | Machine Learning | divertirme.
+**Intereses:** desarrollo Backend | lenguajes de bajo nivel | Machine Learning | divertirme.
 
 ---
 
@@ -15,17 +15,19 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **Capacidades:** Trabajo en equipo y buena comunicación | Flexibilidad | Responsabilidad.
 
-**Lenguajes** : Java | C | C++ | Python | Rust.
+**Lenguajes** : Java | C | C++ | Python | Rust | Haskell
 
-**Bases de datos:** SQL | Postgress | SQLlite.
+**Bases de datos:** Postgres | SQLlite | MySQL 
 
 **Versionadores:** Git | GitHub | Bitbucket.
 
-**Paradigmas:** Imperativo | Funcional | DOO | Design Patterns.
+**Paradigmas:** OO | Imperativo | Funcional  
 
-**OS:** Windows | UnixBased.
+**Design Patterns:** (que más me gustan) Strategy | Observer | Facade | Command | Singleton | Factory 
 
-**Idiomas:** Español nativo | Italiano (C2) | Inglés (B1).
+**OS:** Windows | Linux
+
+**Idiomas:** Español nativo | Italiano (C2) | Inglés (B1)
 
 ---
 ## **EXPERIENCIA PROFESIONAL**
