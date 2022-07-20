@@ -13,7 +13,7 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 ## **COMPETENCIAS**
 
-**Capacidades:** Trabajo en equipo y buena comunicación | Flexibilidad | Responsabilidad.
+**Capacidades:** Trabajo en equipo y buena comunicación | Flexibilidad | Responsabilidad
 
 **Lenguajes** : Java | C | C++ | Python | Rust | Haskell
 
@@ -23,7 +23,7 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **Paradigmas:** OO | Imperativo | Funcional  
 
-**Design Patterns:** _(que más me gustan) Strategy | Observer | Facade | Command | Singleton | Factory 
+**Design Patterns:** _(que más me gustan)_ Strategy | Observer | Facade | Command | Singleton | Factory 
 
 **OS:** Windows | Linux
 
