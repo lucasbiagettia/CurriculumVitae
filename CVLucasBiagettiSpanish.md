@@ -27,8 +27,7 @@ _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub
 
 **OS:** Windows | Linux
 
-**Idiomas:** Español nativo | Italiano (C2) | Inglés (B1)
-
+**Idiomas:** Español nativo | Italiano (C2) | Inglés (B2)
 ---
 ## **EXPERIENCIA PROFESIONAL**
 
