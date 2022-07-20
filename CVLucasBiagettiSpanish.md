@@ -1,6 +1,6 @@
 # LUCAS **BIAGETTI ARAGONE**
 
-Back-end Developer
+Backend Developer
 
 _Rosario (arg) – (+549) 3417 192969 –_ [lucasbiagetti@gmail.com](mailto:lucasbiagetti@gmail.com)
 
