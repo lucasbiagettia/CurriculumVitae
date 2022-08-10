@@ -39,15 +39,11 @@ _Desarrollo de una capa-base para la rápida implementación de habilidades de I
 
 (JAVA 11 y 16 | Git | Bamboo | Eclipse )
 
-## Docente Universitario
+## Docente e Investigador Universitario
 
 **UNR y UNICAL (Italia).** Agosto 2017 – Actualidad
 
-(Antropología Educativa | Pedagogia Sociale | SCV Educación Intercultural Bilingue)
-
-## Investigador Social.
-
-**UNR** - Centro de estudios Antropológicos en contextos urbanos. 2015 - Actualidad
+(Antropología Educativa | Pedagogia Sociale | SCV Educación Intercultural Bilingue | Centro de estudios Antropológicos en contextos urbanos) 2015 - actualidad.
 
 ## Museos
 
