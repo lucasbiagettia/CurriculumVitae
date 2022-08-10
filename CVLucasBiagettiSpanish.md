@@ -67,7 +67,7 @@ Talleres de resolución de problemas.
 
 ### **Oracle Next Education - Oracle/AluraLatam .** 2022
 
-### **JavaScript – Udemy.** [https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap](https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap)2021
+### **JavaScript – Udemy.** [https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap](https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap) . 2021
 
 ###  **Bachiller en Producción de Bienes y Servicios – IPS – UNR.** 2012
 
