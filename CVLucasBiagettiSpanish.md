@@ -65,7 +65,7 @@ Talleres de resolución de problemas.
 
 ### **Analista Universitario en Sistemas – UNR** (en curso 50%) 2021-2023
 
-### **Oracle Next Education - Oracle/AluraLatam **. 2022
+### **Oracle Next Education - Oracle/AluraLatam .** 2022
 
 ### **JavaScript – Udemy.** [https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap](https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap)2021
 
