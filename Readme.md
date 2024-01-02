@@ -1,84 +1,64 @@
 # LUCAS **BIAGETTI ARAGONE**
 
-Backend Developer
+## AI - NLP Developer
 
-_Rosario (arg) – (+549) 3417 192969 –_ [lucasbiagetti@gmail.com](mailto:lucasbiagetti@gmail.com)
-
-_in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub:_ [/lucasbiagettia](https://github.com/lucasbiagettia)
-
-**Intereses:** desarrollo Backend | lenguajes de bajo nivel | Machine Learning | divertirme.
+[lucasbiagetti@gmail.com](mailto:lucasbiagetti@gmail.com) _in:_ [/lucasbiagettia](https://www.linkedin.com/in/lucasbiagettia/) _– GitHub:_ [/lucasbiagettia](https://github.com/lucasbiagettia) _– Hugging Face:_ [/lucasbiagettia](https://huggingface.co/lucasbiagettia)
 
 ---
 
+## SKILLS
 
-## **COMPETENCIAS**
+**AI technologies:** Python | Transformers | PyTorch | Pandas
+**NLP techologies:** Hugging Face libraries | Transformers models | LangChain | Text-embedding
+**Soft skills:** Effective communication | Problem-solving | Teamwork | Continuous learning and research
+**Languages:** Spanish (native) | Italian (C2) | English (B2)
 
-**Capacidades:** Trabajo en equipo y buena comunicación | Flexibilidad | Responsabilidad
+## relevant PROFESSIONAL EXPERIENCE.
 
-**Lenguajes** : Java | C | C++ | Python | Rust | Haskell
+**AI Developer at NeuralSoft** December 2021 - Present
+_Developed scalable AI solutions, focusing on natural language processing, automatic categorization, and
+text summarization..
+Contributed to the end-to-end optimization of a critical layer for the seamless integration of AI into
+business applications.._
+BERT, RoBERTa, T5 Models | Python | JAVA | JProfiler | Design Patterns| N-Layered architecture
 
-**Bases de datos:** Postgres | SQLlite | MySQL 
+**FullStack developer at BorgesIA (Personal Project)** 2022 – Present
+_Designed and developed an AI platform that allows playful interaction with the works of Jorge Luis
+Borges._
+HuggingFace | OpenLLama | LangChain | Conceptual Graphs | Graph mining | Clojure
 
-**Versionadores:** Git | GitHub | Bitbucket
+**Java developer (freelancer)** 2021 – September 2021
+_Migrated ERP databases from Odoo to custom Java-based ERP, providing comprehensive code
+documentation_
+JAVA | Git | Eclipse | JPA
 
-**Paradigmas:** OO | Imperativo | Funcional  
+**University professor at UGR (argentina)** 2023 - Present
+_Taught at the Data Science career, specializing in Introduction to Scientific Thought._
 
-**Design Patterns:** _(que más me gustan)_ Strategy | Observer | Facade | Command | Singleton | Factory 
+## EDUCATION
 
-**OS:** Windows | Linux
+**System Analyst – UNR** (in progress 66%) 2020- Present
+In-depth knowledge of C, C++, Java, Angular, Haskell, Assembler, Design Patterns, Spring, and Angular.
 
-**Idiomas:** Español nativo | Italiano (C2) | Inglés (B2)
----
-## **EXPERIENCIA PROFESIONAL**
+**Master in Pedagogical Sciences.** Università della Calabria, Italy ( _Mark: 110 with honors_ ) 2019-
+**Bachelor and professor in Educational Sciences**. National University of Rosario ( _Mark: 8.45/19_ ) 2013-
 
-## Java Developer
+**DeepLearing.ai** 2023
 
-**NeuralSoft – IA Developer.** Enero 2022- Actualidad
+Completed courses on Prompt Engineering for software developers and LangChain for LLM development
+**Oracle Next Education** 2022-
 
-_Desarrollo de una capa-base para la rápida implementación de habilidades de IA sobre los datos de un ERP_
+Gained expertise in Git, GitHub, HTML, CSS, Python, Java, JavaScript, Data Sciences, and Oracle Cloud.
 
-(JAVA 11 y 16 | Git | Bamboo | Eclipse )
+**Online Courses**
+Completed courses in Spring (2022), Databases (2022), Testing (2022), Java (2021), JavaScript (2020), and
 
-## Docente e Investigador Universitario
+Python (2020).
 
-**UNR y UNICAL (Italia).** Agosto 2017 – Actualidad
+## OTHER PROFESSIONAL EXPERIENCES
 
-(Antropología Educativa | Pedagogia Sociale | SCV Educación Intercultural Bilingue | Centro de estudios Antropológicos en contextos urbanos) 2015 - actualidad.
+**University professor and social researcher at UNR (Argentina) and UNICAL (Italy)** 2015 – Present
+**Group coordination at Natural sciences Museum** 2018
+**Mathematics Olympiad Couch at UNR and ISP** 2013 - 2016
 
-## Museos
 
-**de Cs. Nauturales** y **de la Memoria** - Guía didáctico | asesor pedagógico. 2018
-
-## Entrenador de olimpíadas Matemáticas
-
-**IPS – UNR e Instituto San Pablo** (Villa Constitución). 2013 - 2016
-
-Talleres de resolución de problemas.
-
----
-
-## **FORMACIÓN PERTINENTE**
-
-### **Analista Universitario en Sistemas – UNR** (en curso 50%) 2021-2023
-
-### **Oracle Next Education - Oracle/AluraLatam .** 2022
-
-### **JavaScript – Udemy.** [https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap](https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap) . 2021
-
-###  **Bachiller en Producción de Bienes y Servicios – IPS – UNR.** 2012
-
----
-
-## **OTRAS FORMACIONES**
-
-###  **Laurea Magistrale in Scienze Pedagogiche.** Università della Calabria (Italia). 2020
-
-Nota final: 110 e L/ 110.
-
-###  **Licenciado en Ciencias de la Educación**. Universidad Nacional de Rosario. 2020
-
-Promedio 8,37/10.
-
-###  **Profesor en Ciencias de la Educación**. Universidad Nacional de Rosario. 2018
-
-Promedio 8,29/10
